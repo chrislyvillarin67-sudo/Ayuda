@@ -1,0 +1,98 @@
+============================================================
+CAPSTONE PAPER TEXT FIXES — rabe_villarin-ayuda_distribution
+============================================================
+Copy each block below into your Word document.
+
+------------------------------------------------------------
+A. STATEMENT OF THE PROBLEM  (replace the 3 prose paragraphs)
+------------------------------------------------------------
+The study aims to develop an Ayuda Distribution and Monitoring
+Application that addresses the problems encountered in the
+manual and fragmented management and distribution of government
+assistance in Davao City. Specifically, the study sought to
+answer the following questions:
+
+1. How can the application enable barangay staff per district
+   to manage beneficiary records in an organized database,
+   given that existing records are often outdated, incomplete,
+   or inconsistently maintained?
+
+2. How can the application monitor the distribution of ayuda
+   and prevent duplicate recipients per barangay, given the
+   lack of effective monitoring and tracking mechanisms and
+   poor coordination among implementing agencies?
+
+3. How can the application generate reports for the efficient
+   tracking and verification of the distribution process,
+   supporting accurate reporting and informed decision-making?
+
+------------------------------------------------------------
+B. OBJECTIVES OF THE STUDY  (replace the run-on lines)
+------------------------------------------------------------
+The researchers aim to develop an Ayuda Distribution and
+Monitoring Application for Davao City. Specifically, the study
+aims to:
+
+1. Enable barangay staff per district to manage beneficiary
+   records in an organized database;
+
+2. Monitor the distribution of ayuda and prevent duplicate
+   recipients per barangay; and
+
+3. Generate reports for the efficient tracking and
+   verification of the distribution process.
+
+------------------------------------------------------------
+C. REFERENCE YEAR FIXES
+------------------------------------------------------------
+1. Wailissa & Muharromah — your in-text citations say "(2025)"
+   but the Reference list says "(2023)". Pick ONE and be
+   consistent. If the actual article is the 2023 one, change
+   every in-text (2025) to (2023).
+
+2. Davenport, T. H., & Ronanki, R. — in-text says "(2021)",
+   Reference list says "(2018)". The real article is 2018
+   (Harvard Business Review). Change in-text to (2018).
+
+------------------------------------------------------------
+D. MISSING SOURCES — CITED IN TEXT BUT NOT IN THE REFERENCE LIST
+   (add these to your References section; verify the actual
+    author/year/details from the original sources before pasting)
+------------------------------------------------------------
+- Egeten, Choriyanto, & Anggrainy (2024)   [used in Ch.1 intro]
+- Chui, M., et al. (2021)                  [Real-Time Monitoring]
+- Habitan, et al. (2023)                   [Real-Time Monitoring]
+- Longley, P., et al. (2021)               [GIS section]
+- Goodchild, M., & Li, W. (2020)           [GIS section]
+- Nguyen, et al. (2020)                    [Inventory section]
+- Kumar, A., & Singh, R. (2021)            [Inventory section]
+- Ojo, et al. (2021)                       [Interoperability]
+- Janssen, M., & Estevez, E. (2020)        [Interoperability]
+- Zuiderwijk, et al. (2022)                [Integration section]
+- Gil-Garcia, J. R., et al. (2022)         [Integration section]
+
+Template (APA 7th):
+Author, A. A., Author, B. B., & Author, C. C. (Year). Title of
+article. Journal Name, Volume(Issue), pages. https://doi.org/xxx
+
+------------------------------------------------------------
+E. UNUSED REFERENCE
+------------------------------------------------------------
+- Martin, E., Nolte, I., & Vitolo, E. (2016) is in your
+  Reference list but is NOT cited anywhere in the text.
+  Either cite it in the RRL (e.g., in the coordination /
+  disaster-response discussions) or remove it from the list.
+
+------------------------------------------------------------
+F. ALIGN PAPER CLAIMS WITH THE APP (for the defense demo)
+------------------------------------------------------------
+Add one short paragraph to Scope and Limitations to close the
+two contradictions the panel may catch:
+
+  "Although a cash budget is shown on the dashboard, the system
+   only tracks the stock/balance that must be reduced when ayuda
+   is distributed; it does not manage financial funds. Access is
+   granted to barangay staff, the district administrator, and
+   residents who register their own records; other users are not
+   permitted by the role-based access control."
+============================================================
